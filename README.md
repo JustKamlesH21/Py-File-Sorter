@@ -10,6 +10,10 @@
 
 A Downloads folder full of PDFs, photos and installers is easier to deal with once each kind sits in its own folder. Py File Sorter does that in one step: you pick a folder in a dialog, and every file at its top level moves into a subfolder named after its type. It is one Python file with no packages to install.
 
+<p align="center">
+  <picture><source media="(max-width: 767px)" srcset="assets/readme/glance-m.svg"><img src="assets/readme/glance.svg" width="100%" alt="At a glance. Built: Aug 2025; Stack: Python standard library; Status: One script, no setup"></picture>
+</p>
+
 ## Quick start
 
 ```bash
